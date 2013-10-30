@@ -1,4 +1,4 @@
 CMakeModules
 ============
 
-Cmake Modules for finding packages for dependencies.
+CMake Modules for finding packages for dependencies.
